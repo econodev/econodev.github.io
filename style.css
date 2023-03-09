@@ -73,7 +73,7 @@ h1 {
 /* sobre mi*/
 
 .sobre-mi {
-  height: 500px;
+  height: auto;
   padding: 10px;
   margin: 10px;
 }
